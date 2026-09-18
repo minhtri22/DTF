@@ -1,0 +1,16 @@
+# TPL-G4-001 — Benefits, OE & Scale Gate
+- Initiative ID:
+- 30/60/90 Benefit Ledger ID:
+- Benefit Evidence Grades present:
+- Finance validation / reconciliation refs:
+- **OE Sampling Plan ID / approval timestamp (must precede sample selection):**
+- Population / period / method / seed-query:
+- Rare/adverse-case minimum:
+- Critical control OE test IDs/results:
+- Adoption/bypass trend:
+- Incident/residual risk trend:
+- Recurring cost vs case:
+- T3 scale funding request/authority:
+- Open waiver/condition IDs:
+- G4 sign-offs:
+- Decision: Scale / Optimize / Hold / Retire

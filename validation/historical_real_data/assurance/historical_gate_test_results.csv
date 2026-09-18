@@ -1,0 +1,15 @@
+check,status,detail
+BPI19 target payment-block cycle delta >=15d,PASS,
+BPI19 repeat-invoice share >=3%,PASS,
+BPI19 source lineage present,PASS,
+BPI20 evidence must fail population-validity gate,PASS,
+BPI20 gate verdict must be INCONCLUSIVE,PASS,By design: insufficient independent population reprocessing/predeclared sampling
+Olist bounded sample parses and contains >=1 late case,PASS,
+Olist claim boundary blocks prevalence inference,PASS,
+BPI19-R3 G3 blocks production claim in SANDBOX/HISTORICAL REPLAY,PASS,
+BPI19-R3 G4 blocks Scale without G3 Deploy + real OE + BOOKED benefit,PASS,
+BPI20-R3 G3 blocks production claim in SANDBOX/HISTORICAL REPLAY,PASS,
+BPI20-R3 G4 blocks Scale without G3 Deploy + real OE + BOOKED benefit,PASS,
+OLIST-R2 G3 blocks production claim in SANDBOX/HISTORICAL REPLAY,PASS,
+OLIST-R2 G4 blocks Scale without G3 Deploy + real OE + BOOKED benefit,PASS,
+Final Candidate inherited release validator result captured,PASS,

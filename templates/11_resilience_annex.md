@@ -1,0 +1,24 @@
+# TPL-RES-001 — Non-Functional & Resilience Annex
+- Initiative ID / criticality:
+- Environment Statement ID / Environment Class:
+- Peak operating window:
+- RTO target / measured / **unit**:
+- RTO start event:
+- RTO stop event:
+- RTO dependencies covered / excluded:
+- RPO target / measured / **unit (time/data/transactions)**:
+- RPO measurement method / business rationale:
+- RPO dependencies/data scope:
+- Test environment:
+- Last successful recovery date:
+- Recovery evidence location:
+- Peak volume / load threshold / measured test:
+- Backup frequency / restore test ID/result:
+- Cutover rehearsal ID/result:
+- Rollback trigger / measured rollback time:
+- Migration/interface reconciliation evidence:
+- Manual/failover mode:
+- Vendor SLA/OLA:
+- Monitoring thresholds/owner:
+- Hypercare exit thresholds:
+- Service Owner sign-off:

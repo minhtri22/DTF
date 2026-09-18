@@ -1,0 +1,1 @@
+{"initiative":"WH-R2","plan_id":"OEPLAN-WH-R2-FC01","sample_n":80,"seed":84033,"controls":[{"id":"GOV-002","pass":true,"tested":80,"passed":80},{"id":"DAT-002","pass":true,"tested":80,"passed":80}],"overall":"PASS"}

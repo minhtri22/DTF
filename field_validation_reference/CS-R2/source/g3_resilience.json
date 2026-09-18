@@ -1,0 +1,15 @@
+{
+  "backup_path": "initiatives/CS-R2/system/cs_production.backup.sqlite",
+  "before_count": 2520,
+  "after_restore_count": 2520,
+  "measured_rto_seconds": 0.000362,
+  "target_rto_seconds": 2.0,
+  "rpo_lost_transactions": 0,
+  "target_rpo_transactions": 0,
+  "rollback_activation_seconds": 6e-05,
+  "load_transactions": 3000,
+  "load_errors": 0,
+  "load_p95_ms": 0.266,
+  "load_max_ms": 5.0505,
+  "de_result": "PASS"
+}

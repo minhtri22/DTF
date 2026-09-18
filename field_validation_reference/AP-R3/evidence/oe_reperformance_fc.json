@@ -1,0 +1,13 @@
+{
+  "initiative": "AP-R3",
+  "plan_id": "OEPLAN-AP-R3-FC01",
+  "sample_n": 90,
+  "seed": 94032,
+  "controls": [
+    {"id":"DUP-LOCAL","pass":true,"tested":15,"passed":15},
+    {"id":"SOD-001","pass":true,"tested":75,"passed":75},
+    {"id":"APR-001","pass":true,"tested":75,"passed":75},
+    {"id":"GOV-002","pass":true,"tested":90,"passed":90}
+  ],
+  "overall": "PASS"
+}

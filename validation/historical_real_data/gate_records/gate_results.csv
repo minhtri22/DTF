@@ -1,0 +1,4 @@
+initiative_id,initiative,risk,G0,G1,G2,G3,G4
+BPI19-R3,Purchase-to-Pay Payment-Block & Repeat-Invoice Control Diagnostic,R3,DISCOVER,RUN,PASS,REMEDIATE,HOLD / NOT ELIGIBLE
+BPI20-R3,Request-for-Payment Approval & Rework Diagnostic,R3,DISCOVER,RUN,INCONCLUSIVE,NOT ELIGIBLE / REMEDIATE,HOLD / NOT ELIGIBLE
+OLIST-R2,Order-to-Delivery SLA Exception Diagnostic,R2,DISCOVER,RUN,PASS (BOUNDED),REMEDIATE,HOLD / NOT ELIGIBLE

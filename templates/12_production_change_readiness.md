@@ -1,0 +1,15 @@
+# TPL-G3-001 — Production & Change Readiness
+- Initiative ID / Risk tier:
+- All G2 conditions CLOSED? YES/NO + register ID:
+- Mandatory controls DE PASS? YES/NO + test IDs:
+- Architecture/security/privacy sign-offs:
+- Resilience Annex ID + PASS/FAIL:
+- Service/support owner:
+- Cutover/rollback drill IDs:
+- User segments + adoption baseline/target:
+- Training competency result:
+- Bypass/workaround threshold:
+- T2 funding approved by:
+- Open Waiver IDs:
+- G3 sign-offs/veto checks:
+- Decision: Deploy / Remediate / Stop

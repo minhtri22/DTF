@@ -1,0 +1,21 @@
+{
+  "initiative": "CS-R2",
+  "plan_id": "OEPLAN-CS-R2-FC01",
+  "sample_n": 60,
+  "seed": 74031,
+  "controls": [
+    {
+      "id": "GOV-002",
+      "pass": true,
+      "tested": 60,
+      "passed": 60
+    },
+    {
+      "id": "INC-001",
+      "pass": true,
+      "tested": 10,
+      "passed": 10
+    }
+  ],
+  "overall": "PASS"
+}

@@ -1,0 +1,16 @@
+# TPL-G1-001 — Hypothesis & Experiment Charter
+- Initiative ID:
+- Hypothesis:
+- Primary metric + formula + target:
+- Quality guardrail + limit:
+- Risk/control guardrail + limit:
+- Adoption metric + target:
+- Economics metric:
+- Comparison/cohort:
+- Sample/window:
+- Confounds declared before run:
+- Tracking/evidence IDs to produce:
+- Manual fallback / stop rule:
+- T1 funding amount/authority:
+- G1 sign-offs:
+- Decision: Run / Revise / Stop

@@ -1,0 +1,30 @@
+# SME-DTF public repository exclusions
+
+# Third-party/raw datasets
+data/
+datasets/
+third_party_data/
+*.xes
+*.xes.gz
+
+# Executable synthetic full populations / local databases
+*.sqlite
+*.sqlite3
+**/transactions_90d.csv
+
+# Generated document/binary exports
+*.docx
+*.pdf
+*.zip
+
+# Python/runtime
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

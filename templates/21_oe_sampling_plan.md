@@ -1,0 +1,15 @@
+# TPL-OE-SAMPLE-001 — OE Sampling Plan
+- Initiative ID / Plan ID:
+- Control IDs:
+- Plan approval timestamp:
+- Population definition / size:
+- Period under review:
+- Sampling unit:
+- Method: random / stratified / systematic / judgmental
+- Reproducible seed/query/selector:
+- Sample-size rationale:
+- Rare/adverse/exception minimum:
+- Exclusions / replacements rule:
+- Evidence source / extraction timestamp/hash:
+- Reviewer / approver:
+- Sample selection timestamp (must be after plan approval):

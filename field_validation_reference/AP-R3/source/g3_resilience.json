@@ -1,0 +1,8 @@
+{
+  "backup_path":"initiatives/AP-R3/system/ap_production.backup.sqlite",
+  "before_count":2700,"after_restore_count":2700,
+  "measured_rto_seconds":0.000288,"target_rto_seconds":2.0,
+  "rpo_lost_transactions":0,"target_rpo_transactions":0,
+  "rollback_activation_seconds":0.000062,"load_transactions":4000,"load_errors":0,
+  "load_p95_ms":1.1531,"load_max_ms":6.9591,"de_result":"PASS"
+}

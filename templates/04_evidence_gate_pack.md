@@ -1,0 +1,16 @@
+# TPL-G2-001 — Evidence Gate Pack
+- Initiative ID:
+- SIMULATED / REAL:
+- Baseline evidence IDs:
+- Experiment evidence IDs:
+- Sample/window actually observed:
+- Result by metric + formula:
+- Guardrail result:
+- Data quality/lineage status:
+- Material confounds:
+- Cost actual to date:
+- Reviewer/challenge roles:
+- Verdict: PASS / FAIL / INCONCLUSIVE / CONDITIONAL
+- Condition IDs:
+- G2 sign-offs:
+- Decision: Proceed / Rerun / Remediate / Pause / Stop

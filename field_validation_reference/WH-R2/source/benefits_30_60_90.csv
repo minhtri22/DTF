@@ -1,0 +1,4 @@
+day,transactions,capacity_release_hours,invalid_receipts_blocked,cost_avoidance_vnd,recurring_cost_vnd,hard_cash_vnd,finance_validation,note
+30,2700,65.0,71,12780000,2500000,0,VALIDATED_SIMULATED_COST_AVOIDANCE_ONLY,Capacity not monetized; no staffing/budget action.
+60,5400,131.6,139,25020000,5000000,0,VALIDATED_SIMULATED_COST_AVOIDANCE_ONLY,Capacity not monetized; no staffing/budget action.
+90,8100,198.2,217,39060000,7500000,0,VALIDATED_SIMULATED_COST_AVOIDANCE_ONLY,Capacity not monetized; no staffing/budget action.

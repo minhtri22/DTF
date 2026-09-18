@@ -1,0 +1,12 @@
+# TPL-CTRL-TEST-001 — Control Test Record
+- Initiative ID / Control ID:
+- DE or OE:
+- Test objective:
+- Population / sample size / period:
+- Test steps:
+- Expected result:
+- Actual result/exceptions:
+- Evidence IDs:
+- Conclusion PASS/FAIL:
+- Tester / independent reviewer:
+- Remediation/Condition ID if FAIL:

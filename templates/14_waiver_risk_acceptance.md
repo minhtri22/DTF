@@ -1,0 +1,11 @@
+# TPL-WAIVER-001 — Waiver / Risk Acceptance
+- Waiver ID / Initiative:
+- Gate / Control ID impacted:
+- Is control waivable by library? YES/NO:
+- Rationale:
+- Residual risk:
+- Compensating control:
+- Evidence IDs:
+- Approving authority:
+- Issue date / expiry / re-review:
+- Status:

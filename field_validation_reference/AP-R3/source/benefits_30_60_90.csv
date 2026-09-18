@@ -1,0 +1,4 @@
+day,transactions,capacity_release_hours,duplicate_payments_blocked,cost_avoidance_duplicate_vnd,hard_cash_temp_contract_vnd,one_off_cost_vnd,recurring_cost_vnd,finance_validation,confidence
+30,900,105.0,15,930474000,6000000,24000000,3000000,VALIDATED_SIMULATED,MEDIUM for duplicate avoidance; HIGH for temp contract action
+60,1800,209.9,21,1127580000,12000000,24000000,6000000,VALIDATED_SIMULATED,MEDIUM for duplicate avoidance; HIGH for temp contract action
+90,2700,314.9,27,1427180000,18000000,24000000,9000000,VALIDATED_SIMULATED,MEDIUM for duplicate avoidance; HIGH for temp contract action

@@ -1,0 +1,18 @@
+# TPL-G0-001 — Portfolio Intake, Risk & Funding Request
+- Initiative ID:
+- Strategic priority:
+- Executive sponsor:
+- Process owner:
+- Problem/value hypothesis:
+- Risk Score artifact ID:
+- Risk tier R1/R2/R3/R4:
+- Dependencies:
+- Planned capacity vs available capacity:
+- Alternatives/do-nothing:
+- Benefit types expected:
+- One-off / recurring rough cost:
+- Funding tranche requested: T0/T1:
+- Budget authority:
+- G0 mandatory evidence IDs:
+- G0 sign-offs:
+- Decision: Discover / Hold / Reject

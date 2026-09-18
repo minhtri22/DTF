@@ -1,0 +1,12 @@
+# TPL-F8-ARCH-001 — Architecture / Integration / Vendor Review
+- Initiative ID:
+- System(s) of record:
+- Configure/integrate/build rationale:
+- Integration owners + reconciliation:
+- Identity/access model:
+- Logging/observability:
+- Security/privacy requirements by tier:
+- Vendor SLA/OLA:
+- Export/portability/exit test:
+- Recurring cost assumption:
+- Architecture sign-off:

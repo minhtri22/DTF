@@ -1,0 +1,16 @@
+day,metric,value,evidence_grade,finance_source,permitted_claim
+30,capacity_release_hours,105.0,MODELED,synthetic CSV / simulated validator,modeled synthetic value; NOT observed/booked realization
+30,cost_avoidance_duplicate_vnd,930474000,MODELED,synthetic CSV / simulated validator,modeled synthetic value; NOT observed/booked realization
+30,hard_cash_temp_contract_vnd,6000000,MODELED,synthetic CSV / simulated validator,modeled synthetic value; NOT observed/booked realization
+30,one_off_cost_vnd,24000000,MODELED,synthetic CSV / simulated validator,modeled synthetic value; NOT observed/booked realization
+30,recurring_cost_vnd,3000000,MODELED,synthetic CSV / simulated validator,modeled synthetic value; NOT observed/booked realization
+60,capacity_release_hours,209.9,MODELED,synthetic CSV / simulated validator,modeled synthetic value; NOT observed/booked realization
+60,cost_avoidance_duplicate_vnd,1127580000,MODELED,synthetic CSV / simulated validator,modeled synthetic value; NOT observed/booked realization
+60,hard_cash_temp_contract_vnd,12000000,MODELED,synthetic CSV / simulated validator,modeled synthetic value; NOT observed/booked realization
+60,one_off_cost_vnd,24000000,MODELED,synthetic CSV / simulated validator,modeled synthetic value; NOT observed/booked realization
+60,recurring_cost_vnd,6000000,MODELED,synthetic CSV / simulated validator,modeled synthetic value; NOT observed/booked realization
+90,capacity_release_hours,314.9,MODELED,synthetic CSV / simulated validator,modeled synthetic value; NOT observed/booked realization
+90,cost_avoidance_duplicate_vnd,1427180000,MODELED,synthetic CSV / simulated validator,modeled synthetic value; NOT observed/booked realization
+90,hard_cash_temp_contract_vnd,18000000,MODELED,synthetic CSV / simulated validator,modeled synthetic value; NOT observed/booked realization
+90,one_off_cost_vnd,24000000,MODELED,synthetic CSV / simulated validator,modeled synthetic value; NOT observed/booked realization
+90,recurring_cost_vnd,9000000,MODELED,synthetic CSV / simulated validator,modeled synthetic value; NOT observed/booked realization

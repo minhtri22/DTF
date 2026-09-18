@@ -1,0 +1,4 @@
+day,transactions,capacity_release_hours,hard_cash_overtime_vnd,recurring_cost_vnd,net_hard_cash_vnd,finance_validation,realization_action
+30,840,216.2,4560000,2000000,2560000,VALIDATED_SIMULATED,reduce overtime roster and redeploy capacity to retention callbacks
+60,1680,430.9,9240000,4000000,5240000,VALIDATED_SIMULATED,reduce overtime roster and redeploy capacity to retention callbacks
+90,2520,647.6,13920000,6000000,7920000,VALIDATED_SIMULATED,reduce overtime roster and redeploy capacity to retention callbacks

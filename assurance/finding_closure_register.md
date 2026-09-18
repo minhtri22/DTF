@@ -1,0 +1,10 @@
+# Finding Closure Register — v0.2 Independent QA → v0.3-RC
+
+| Finding | Rating | Owner | Due | Closure criteria | Evidence | Status | Independent validator | Closure date |
+|---|---|---|---|---|---|---|---|---|
+| QA-01 | HIGH | Framework Owner | RC release | Closure register must include status, owner, criteria, evidence, independent validator/date | governance/00_document_control.md; templates/19_finding_closure_register.md; assurance/finding_closure_register.md | CLOSED | Second Assurance | 17/09/2026 |
+| QA-02 | HIGH | Transformation + Risk/Finance/IT | RC release | G0-G4 have mandatory evidence, objective rule, sign-off/veto, non-waivable rule and condition closure | governance/03_gate_control_matrix.md; templates/08_condition_closure_register.md | CLOSED | Second Assurance | 17/09/2026 |
+| QA-03 | HIGH | Transformation Lead | RC release | 10/10 cards carry simulated label, tier, baseline, sample/window, evidence IDs, source lineage, control owner/IDs and condition reference | processes/*; evidence_packs/*; assurance/evidence_artifact_register.md | CLOSED | Second Assurance | 17/09/2026 |
+| QA-04 | HIGH | Risk/Control + IT/Data | RC release | Risk scoring executable; control library has ID/owner/frequency/evidence/test/waiver; DE/OE rules explicit | governance/01_risk_scoring_matrix.md; governance/02_minimum_control_library.md; templates/10_control_test_record.md | CLOSED | Second Assurance | 17/09/2026 |
+| QA-05 | HIGH | IT/Service Owner | RC release | G3 requires RTO/RPO, capacity, restore, cutover/rollback, reconciliation, vendor SLA and hypercare exit evidence | governance/06_resilience_standard.md; templates/11_resilience_annex.md; templates/12_production_change_readiness.md | CLOSED | Second Assurance | 17/09/2026 |
+| QA-06 | HIGH | Finance + Sponsor | RC release | Funding tranches/authority and benefits taxonomy/formula/attribution/Finance validation/stop-loss are mandatory | governance/05_funding_benefits_governance.md; templates/13_funding_benefit_ledger.md; templates/16_benefits_oe_scale_gate.md | CLOSED | Second Assurance | 17/09/2026 |

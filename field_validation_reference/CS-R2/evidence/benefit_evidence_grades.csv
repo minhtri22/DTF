@@ -1,0 +1,13 @@
+day,metric,value,evidence_grade,finance_source,permitted_claim
+30,capacity_release_hours,216.2,MODELED,synthetic CSV / simulated validator,modeled synthetic value; NOT observed/booked realization
+30,hard_cash_overtime_vnd,4560000,MODELED,synthetic CSV / simulated validator,modeled synthetic value; NOT observed/booked realization
+30,recurring_cost_vnd,2000000,MODELED,synthetic CSV / simulated validator,modeled synthetic value; NOT observed/booked realization
+30,net_hard_cash_vnd,2560000,MODELED,synthetic CSV / simulated validator,modeled synthetic value; NOT observed/booked realization
+60,capacity_release_hours,430.9,MODELED,synthetic CSV / simulated validator,modeled synthetic value; NOT observed/booked realization
+60,hard_cash_overtime_vnd,9240000,MODELED,synthetic CSV / simulated validator,modeled synthetic value; NOT observed/booked realization
+60,recurring_cost_vnd,4000000,MODELED,synthetic CSV / simulated validator,modeled synthetic value; NOT observed/booked realization
+60,net_hard_cash_vnd,5240000,MODELED,synthetic CSV / simulated validator,modeled synthetic value; NOT observed/booked realization
+90,capacity_release_hours,647.6,MODELED,synthetic CSV / simulated validator,modeled synthetic value; NOT observed/booked realization
+90,hard_cash_overtime_vnd,13920000,MODELED,synthetic CSV / simulated validator,modeled synthetic value; NOT observed/booked realization
+90,recurring_cost_vnd,6000000,MODELED,synthetic CSV / simulated validator,modeled synthetic value; NOT observed/booked realization
+90,net_hard_cash_vnd,7920000,MODELED,synthetic CSV / simulated validator,modeled synthetic value; NOT observed/booked realization

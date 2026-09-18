@@ -1,0 +1,11 @@
+# TPL-HANDOFF-001 — Handoff Record
+- Initiative / current gate:
+- Process owner / Service owner:
+- Last verified Evidence Pack ID:
+- Open Condition/Waiver IDs:
+- Mandatory Control IDs:
+- Decision history:
+- Source-of-truth Artifact Register:
+- What must not change without re-gating:
+- Next exact action/date:
+- Benefit review date:
